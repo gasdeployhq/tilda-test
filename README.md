@@ -18,3 +18,4 @@
     ```bash
     docker-compose up
     ```
+3. 3-е задание находится в файле index.html
